@@ -1,9 +1,9 @@
 # marklogic-javascript-query-snippets
 Useful functions/snippets of code intended to help when using the query console on a MarkLogic server
 
-Designed to be a useful reference (/source for copying some functions) rather than directly pulled in as a package or anything like that.
+Designed to be a useful reference to speed up work rather than directly pulled in as a package or anything like that.
 
-This will probably build up quite slowly as I have a need for more things, but I've got a few things to seed it with initially.
+This will probably build up quite slowly as I have (or anyone else who wants to contribute has) a need for more things. So far it's got examples for a few things where I've repeatedly thought "this should be easy" and then had to spend longer than I'd like looking things up.
 
 ## Want to contribute?
 
